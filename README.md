@@ -4,7 +4,7 @@ So, I spent a lot of time going round in circles, extracting the bits that I tho
 
 This project is part of a seried of development notes I want to write to document some of the stuff I learnt along the way. The note that goes with it can be found on my web site.
 
- [Custom Fonts Article](http://www.sabarnett.co.uk/blogPage.php?id=customFonts)
+ [Custom Fonts Article](http://www.sabarnett.co.uk/blogPage.php?id=addingFonts)
 
 What I cover in this note is how to use custom fonts in a Mac application. Take note, the process is slightly diffrent for an iOS application and that is not covered here.
 
